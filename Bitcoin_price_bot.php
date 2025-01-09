@@ -1,7 +1,6 @@
 <?php
 
 $botToken = 'TOKEN_BOT';
-$adminUserId = CHAT_ID;
 $apiUrl = "https://api.telegram.org/bot{$botToken}/sendMessage";
 
 // Set the timezone to Iran
