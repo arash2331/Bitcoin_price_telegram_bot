@@ -35,6 +35,7 @@ Time: 2025-01-09 15:30:00
 ### Notes
 - Make sure your server has internet access to fetch data from the Nobitex API.
 - Adjust permissions to secure your script.
+- Test bot https://t.me/bitcoin_price_nx7_bot
 
 ---
 
@@ -73,4 +74,5 @@ Time: 2025-01-09 15:30:00
 
 ### نکات
 - اطمینان حاصل کنید که سرور امکان دسترسی به اینترنت برای استخراج داد
+- - ربات تست https://t.me/bitcoin_price_nx7_bot
 
